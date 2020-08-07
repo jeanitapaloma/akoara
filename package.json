@@ -1,0 +1,23 @@
+{
+  "name": "akoara",
+  "version": "1.0.0",
+  "description": "Wala uy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanitapaloma/akoara.git"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "author": "Jeanita Paloma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanitapaloma/akoara/issues"
+  },
+  "homepage": "https://github.com/jeanitapaloma/akoara#readme"
+}

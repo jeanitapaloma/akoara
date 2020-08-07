@@ -39,6 +39,8 @@ build/Release
 
 # Dependency directories
 node_modules/
+
+
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -77,6 +79,8 @@ typings/
 
 # Next.js build output
 .next
+.DS_Store
+    *.env/
 
 # Nuxt.js build / generate output
 .nuxt
